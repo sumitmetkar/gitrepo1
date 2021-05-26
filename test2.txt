@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is C85B-CBED
+
+ Directory of D:\Sumit\Study\github\projects\first_repo
+
+26-05-2021  11:09    <DIR>          .
+26-05-2021  11:09    <DIR>          ..
+26-05-2021  10:54               357 test1.txt
+26-05-2021  11:09                 0 test2.txt
+               2 File(s)            357 bytes
+               2 Dir(s)  228,024,573,952 bytes free
